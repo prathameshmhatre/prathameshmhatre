@@ -1,6 +1,6 @@
 ### Hi there, I'm Prathamesh 👋
 
-<img src="https://media1.tenor.com/images/94a7a5973cba7bfc5fcde854959a46d4/tenor.gif?itemid=13165216" width="262" height="196.23694779116465" alt="Sultan Alrefaei Programmer GIF - SultanAlrefaei Programmer Office GIFs" style="max-width: 262px; background-color: rgb(63, 63, 63);"/>
+<img align="center" alt="Coder for life" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif">
 
 <br />
 
