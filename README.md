@@ -69,17 +69,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshmhatre&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</div>
-
-<br/>  
-
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=prathameshmhatre&&style=flat-square)  
